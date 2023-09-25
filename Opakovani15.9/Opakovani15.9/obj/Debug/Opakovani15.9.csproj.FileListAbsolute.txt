@@ -1,0 +1,10 @@
+G:\prg\Opakovani15.9\Opakovani15.9\bin\Debug\Opakovani15.9.exe.config
+G:\prg\Opakovani15.9\Opakovani15.9\bin\Debug\Opakovani15.9.exe
+G:\prg\Opakovani15.9\Opakovani15.9\bin\Debug\Opakovani15.9.pdb
+G:\prg\Opakovani15.9\Opakovani15.9\obj\Debug\Opakovani15.9.csprojAssemblyReference.cache
+G:\prg\Opakovani15.9\Opakovani15.9\obj\Debug\Opakovani15._9.Form1.resources
+G:\prg\Opakovani15.9\Opakovani15.9\obj\Debug\Opakovani15._9.Properties.Resources.resources
+G:\prg\Opakovani15.9\Opakovani15.9\obj\Debug\Opakovani15.9.csproj.GenerateResource.cache
+G:\prg\Opakovani15.9\Opakovani15.9\obj\Debug\Opakovani15.9.csproj.CoreCompileInputs.cache
+G:\prg\Opakovani15.9\Opakovani15.9\obj\Debug\Opakovani15.9.exe
+G:\prg\Opakovani15.9\Opakovani15.9\obj\Debug\Opakovani15.9.pdb
